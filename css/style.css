@@ -216,6 +216,7 @@ table {
     .row:first-child {
         justify-content: center;
         width: 100%;
+        margin-bottom: 0;
     }
 
     .social {
